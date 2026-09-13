@@ -1,0 +1,46 @@
+CAREY BEEBE — DREAMWEAVER TEST SAMPLE
+Prepared by Jan Cubric / IOM — 13 September 2026
+
+GETTING STARTED
+1. Extract the entire ZIP before opening any files.
+2. In Dreamweaver, choose Site > New Site.
+3. Set the Local Site Folder to the extracted carey-beebe-responsive folder.
+   No remote server or publishing settings are needed to edit this sample.
+4. Open tech/kb/prob.html to inspect and edit the data table.
+5. Open tech/kb/trans.html to inspect the photograph, credit and caption.
+6. Preview the HTML files in a current web browser and resize the window.
+
+WHAT TO TRY
+- Change an observation, cause or corrective action in the table.
+- Change a paragraph or the caption beneath the photograph.
+- Save, refresh the browser and check the result.
+- Try the navigation, mobile menu and photograph dialog in a current browser.
+
+The complete content is ordinary HTML. Shared layout rules are in
+assets/site.css; optional navigation and dialog behaviour are in assets/site.js.
+There is no package installation or build step.
+
+IMAGES
+The photo and logo are ordinary local JPEG files. They contain the exact
+original image bytes, with the original photograph credit retained.
+The source photo is 317 x 422 pixels; a larger original would improve a larger
+photo view. You can replace its src with another local image while retaining
+the dimensions, alternative text, credit and caption as appropriate.
+
+LOCAL AND ONLINE PREVIEW
+You can open index.html in a browser directly. Under file:// the links between
+the two pages use ordinary page navigation. The online preview also demonstrates
+content switching without rebuilding the shared page layout, including its URL.
+Dreamweaver's built-in Design/Live views may differ from a current browser.
+This package has been checked in Chromium, but not in Dreamweaver 21.8 itself.
+
+SCOPE
+Only Keyboard problems and Transposing keyboards have been adapted.
+Other links open the corresponding pages on the existing hpschd.nu website.
+The data table scrolls horizontally within its own region on a narrow screen.
+The photograph opens in a dialog, which can be closed with Escape.
+The header banner is static in this first sample.
+The common navigation and footer are repeated in the two HTML files for this
+pilot. A shared editing method can be agreed before converting the wider site.
+
+Content and photography copyright Carey Beebe. This is a review sample.

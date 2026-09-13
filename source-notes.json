@@ -1,0 +1,420 @@
+{
+  "captured_at": "2026-09-13",
+  "purpose": "Responsive Technical Library sample requested by Jan Cubric for Carey Beebe, prepared for public review and local Dreamweaver testing.",
+  "table_source": "https://www.hpschd.nu/tech/kb/prob.html",
+  "article_source": "https://www.hpschd.nu/tech/kb/trans.html",
+  "photo_source": "https://www.hpschd.nu/g/tech/kb/keywell.jpeg",
+  "logo_source": "https://www.hpschd.nu/g/wb/nu.jpeg",
+  "photo_original_sha256": "feb32546aad92a11d9f850719074df9a0cb6a8c282bf8cd75a7763e89a137008",
+  "logo_original_sha256": "704d428e95e0015f3e0c1f487ae5da9e03d73c5bc494ab879888757848c9c675",
+  "table_data_rows": 81,
+  "observation_groups": 37,
+  "original_table_expanded": [
+    [
+      "Key sluggish in return.",
+      "Balance mortise swollen with humidity.",
+      "Ease balance mortise, preserving round hole at bottom of key, and parallel sides of mortise at top."
+    ],
+    [
+      "Key sluggish in return.",
+      "Balance pin dirty or corroded.",
+      "Clean or replace balance pin."
+    ],
+    [
+      "Key sluggish in return.",
+      "Balance pin bent.",
+      "Straighten balance pin."
+    ],
+    [
+      "Key sluggish in return.",
+      "Key loose front to back on balance pin.",
+      "Restore bottom of balance mortise."
+    ],
+    [
+      "Key sluggish in return.",
+      "Key wobbles sideways on balance pin.",
+      "Restore top of balance mortise."
+    ],
+    [
+      "Key sluggish in return.",
+      "Key lead has corroded.",
+      "Remove key lead corrosion."
+    ],
+    [
+      "Key sluggish in return.",
+      "Odd key is head heavy, or there is insufficient weight in the tail to overcome friction.",
+      "Rectify incorrect key balance by carving or using a weight to match surrounding keys."
+    ],
+    [
+      "Key sluggish in return.",
+      "Keylevers left rough from being sawn apart.",
+      "Plane sides of offending keylevers smooth."
+    ],
+    [
+      "Key sluggish in return.",
+      "Key end cloth is catching on the touchrail or adjoining key’s cloth.",
+      "Trim offending keyend cloth."
+    ],
+    [
+      "Key sluggish in return.",
+      "Poorly located cloth nail has penetrated key side.",
+      "Relocate offending cloth nail."
+    ],
+    [
+      "Key loose front to back.",
+      "The hole at the balance point on the bottom of the key is damaged or worn.",
+      "Restore bottom of balance hole to circular shape."
+    ],
+    [
+      "Key wobbles sideways.",
+      "The balance mortise is damaged or worn at top.",
+      "Restore parallel sides at top of balance mortise."
+    ],
+    [
+      "Excessive side to side motion of key.",
+      "The thumbnail at the rear of the key is too thin.",
+      "Replace thumbnail."
+    ],
+    [
+      "Excessive side to side motion of key.",
+      "The lower manual guidepin has been filed too thin.",
+      "Rotate or replace the guidepin."
+    ],
+    [
+      "Excessive side to side motion of key.",
+      "The slot in the rack has been worn or damaged.",
+      "Restore the slot in the rack to original dimensions."
+    ],
+    [
+      "Key flops side to side unhindered at all times.",
+      "The guidepin is missing, or too short to reach the rack.",
+      "Replace guidepin."
+    ],
+    [
+      "Key flops side to side unhindered at all times.",
+      "The thumbnail is missing or broken.",
+      "Replace thumbnail."
+    ],
+    [
+      "Key flops side to side unhindered at all times.",
+      "The plastic key insert is dislodged.",
+      "Reseat plastic key insert."
+    ],
+    [
+      "Key flops side to side unhindered at all times.",
+      "The plastic key insert is missing.",
+      "Replace missing plastic key insert."
+    ],
+    [
+      "Key flops side to side unhindered when depressed.",
+      "The guidepin or thumbnail is too short and is leaving the rack.",
+      "Replace guidepin or thumbnail of sufficient length."
+    ],
+    [
+      "Keyhead displaced sideways.",
+      "Keylever has warped because of climate change.",
+      "Bend or relocate guidepin, or in serious cases, wedge the key lever."
+    ],
+    [
+      "Scratchy noise when key is depressed or released.",
+      "Guidepin is rough and rubbing on the rack.",
+      "Smooth guidepin and lubricate rack slot if necessary."
+    ],
+    [
+      "Key squeaks when played.",
+      "The rack slot requires lubrication.",
+      "Lubricate rack slot with soft lead pencil."
+    ],
+    [
+      "Clacking sound when key is depressed.",
+      "Accidental key is hitting natural keycover.",
+      "Realign accidental key."
+    ],
+    [
+      "Clacking sound when key is depressed.",
+      "Underside of accidental keylever is hitting balance rail.",
+      "Check that keydip is not excessive before adjusting key to allow for clearance."
+    ],
+    [
+      "Clacking sound when key is depressed.",
+      "Underside of natural keylever is hitting frontrail, casefront moulding, or coupler rail.",
+      "Check that keydip is not excessive before adjusting clearance."
+    ],
+    [
+      "Clacking sound when key is depressed.",
+      "Keyend cloth is worn.",
+      "Replace keyend cloth."
+    ],
+    [
+      "Clacking sound when key is depressed.",
+      "Keyend cloth is not correctly located on key.",
+      "Correct keyend cloth location to provide sufficient padding for jack bottom."
+    ],
+    [
+      "Clacking sound when key is depressed.",
+      "Bottom of jack is hitting on a nail used for fastening the keyend cloth.",
+      "Ensure nail is fully inserted, or relocate nail."
+    ],
+    [
+      "Clacking sound when key is depressed.",
+      "Top of jack is hitting on a nail used for fastening the jackrail cloth.",
+      "Ensure nail is fully inserted, or relocate nail."
+    ],
+    [
+      "Clacking sound when key is depressed.",
+      "Insufficient jackrail padding.",
+      "Replace jackrail cloth."
+    ],
+    [
+      "Clacking sound when key is depressed.",
+      "Guide pin or thumbnail is hitting touchrail.",
+      "Relocate guide pin or thumbnail lower in key tail."
+    ],
+    [
+      "Clacking sound when key is depressed.",
+      "Tongue axle pin has worked loose and is projecting from side of jack.",
+      "Reseat tongue axle pin flush to side of jack."
+    ],
+    [
+      "Clacking sound when coupled lower manual key is depressed, particularly in midrange.",
+      "Underside of upper keyend cloth is worn.",
+      "Replace upper keyend cloth."
+    ],
+    [
+      "Clacking sound when key is released (especially accidentals.)",
+      "Italian nameboard has warped forward.",
+      "Investigate an unobtrusive method to keep nameboard flush against wrestplank."
+    ],
+    [
+      "Clacking sound when key is released (especially accidentals.)",
+      "Coupler rail has bowed downwards.",
+      "Pack coupler rail higher to avoid bowed effect, and pad underside if necessary."
+    ],
+    [
+      "Clacking sound when key is released (especially accidentals.)",
+      "Rear of accidental key is hitting the nameboard batten.",
+      "Check and secure keyframe position."
+    ],
+    [
+      "Clacking sound when key is released (especially accidentals.)",
+      "Rear of accidental key is hitting the nameboard batten.",
+      "Check & adjust coupled position of upper keyboard."
+    ],
+    [
+      "Clacking sound when key is released (especially accidentals.)",
+      "Rear of accidental key is hitting the nameboard batten.",
+      "Ensure nameboard batten is screwed to nameboard."
+    ],
+    [
+      "Clacking sound when key is released (especially accidentals.)",
+      "Rear of accidental key is hitting the nameboard batten.",
+      "Restore clearance between rear of accidental key and nameboard batten."
+    ],
+    [
+      "Key is not level with its neighbours when at rest.",
+      "Key is not fully returning.",
+      "Diagnoze and fix."
+    ],
+    [
+      "Key is not level with its neighbours when at rest.",
+      "Keyboard requires leveling.",
+      "Level keyboard."
+    ],
+    [
+      "Key is above the level of its neighbors when at rest.",
+      "There is foreign matter under the key at the balance point.",
+      "Lift key and remove foreign matter."
+    ],
+    [
+      "Key is below the level of its neighbors when at rest.",
+      "There is foreign matter under the key at the backrail.",
+      "Lift key and remove foreign matter."
+    ],
+    [
+      "Keyhead is tilted so playing surface is not level.",
+      "Balance pin is not vertical.",
+      "Realign balance pin."
+    ],
+    [
+      "Keyhead is tilted so playing surface is not level.",
+      "Key coverplate has warped.",
+      "Reglue coverplate to keylever."
+    ],
+    [
+      "Keyhead is tilted so playing surface is not level.",
+      "Key has twisted.",
+      "Realign balance pin to suit, then adjust level to surrounding keys and spacing."
+    ],
+    [
+      "Uneven keydip from key to key.",
+      "The instrument has never been regulated, and the cut jack tops are uneven.",
+      "Regulate instrument and trim jack tops to consistent height."
+    ],
+    [
+      "Uneven keydip from key to key.",
+      "Jack bottom screw has pushed into its hole.",
+      "Restore hole for jack bottom screw and reinsert."
+    ],
+    [
+      "Excessive keydip at either extremity of compass.",
+      "The jackrail cloth is too short.",
+      "Ensure jackrail cloth is sufficient length for entire compass of instrument."
+    ],
+    [
+      "Insufficient keydip: The instrument cannot be played.",
+      "Jackrail has been put on backwards.",
+      "Install jackrail correctly, observing any markings on underside."
+    ],
+    [
+      "Accidental keys bottom out below level of natural keycovers.",
+      "Keydip is excessive.",
+      "Reduce keydip."
+    ],
+    [
+      "Accidental keys bottom out below level of natural keycovers.",
+      "Accidentals are too short for keyboard geometry or regulation.",
+      "Raise accidentals with punchings at balance rail."
+    ],
+    [
+      "Lower manual key sticks at limit of keydip.",
+      "Insufficient clearance between keytail and rack.",
+      "Trim keytail to provide clearance at limit of keydip."
+    ],
+    [
+      "Upper manual key sticks at limit of keydip.",
+      "Key is not tracking vertically.",
+      "Realign guide pin."
+    ],
+    [
+      "Upper manual key sticks at limit of keydip.",
+      "Guide pin has been knocked out of position when keyboard returned to instrument.",
+      "Realign guide pin."
+    ],
+    [
+      "Upper manual key sticks at limit of keydip.",
+      "Guide pin mortise does not have parallel sides at top.",
+      "Restore parallel sides of guidepin mortise."
+    ],
+    [
+      "Upper manual key sticks at limit of keydip.",
+      "Upper keytail is rubbing against 4⁠´ jack.",
+      "Reduce ON position of coupler."
+    ],
+    [
+      "Upper manual keys move slightly when keyboards are being coupled.",
+      "The coupler dogs are too long.",
+      "Regulate height of coupler dogs."
+    ],
+    [
+      "Upper manual keys move slightly when keyboards are being coupled.",
+      "The cloth tabs supporting the upper keyboard have worn.",
+      "Inspect and replace cloth tabs."
+    ],
+    [
+      "Upper manual keys move slightly when lower keyboard is played, even though keyboards are uncoupled.",
+      "The coupler dogs are interfering with the keys.",
+      "Increase OFF position of coupler."
+    ],
+    [
+      "Upper keyboard can skew sideways when coupled or uncoupled.",
+      "The upper keyframe is not confined to the coupler tracks.",
+      "Modify coupler tracks to confine upper keyframe."
+    ],
+    [
+      "Depressing a lower manual key plays two adjoining upper manual keys.",
+      "Coupler dog is interfering with adjacent key.",
+      "Shape coupler dog to remove interference."
+    ],
+    [
+      "Depressing a lower manual key plays two adjoining upper manual keys.",
+      "There is too much side motion in upper keyboard tracking.",
+      "Reduce upper keyboard side tracking."
+    ],
+    [
+      "Delay before upper manual keys move when coupled.",
+      "Excessive lost motion in coupler.",
+      "Reduce lost motion in coupler."
+    ],
+    [
+      "Lower manual key clacks when played in coupled position, but not uncoupled.",
+      "Coupler dog is hitting a cloth nail on the upper key.",
+      "Reposition cloth nail."
+    ],
+    [
+      "Lower manual key clacks when played in coupled position, but not uncoupled.",
+      "The underside of the upper manual keyend cloth is worn from the coupler dogs.",
+      "Replace upper manual keyend cloth."
+    ],
+    [
+      "Lower manual key clacks on release.",
+      "Keycover is hitting coupler rail.",
+      "Raise coupler rail."
+    ],
+    [
+      "Upper keyboard clunks during coupling or uncoupling.",
+      "Insufficient or worn padding on coupler stop blocks.",
+      "Inspect and replace padding."
+    ],
+    [
+      "Upper keyboard clunks during coupling or uncoupling.",
+      "Boisterous performer.",
+      "Encourage a more gentle approach to the instrument."
+    ],
+    [
+      "One key jams down by itself.",
+      "Slot in rack is too tight at top.",
+      "Ease guidepin or thumbnail."
+    ],
+    [
+      "One key jams down by itself.",
+      "The thumbnail has dislodged from the key and is stuck in the rack.",
+      "Reglue thumbnail in key and check for correct operation."
+    ],
+    [
+      "Two adjoining keys stick.",
+      "There is a foreign object stuck between the keys.",
+      "Remove the foreign object."
+    ],
+    [
+      "Several keys play together and jam in down position.",
+      "Corroded key leads have expanded to interfere with adjoining keys.",
+      "Remove key lead corrosion."
+    ],
+    [
+      "Several keys play together and jam in down position.",
+      "The keyboards have not been correctly transposed.",
+      "Raise the offending jacks and let them return by gravity to their correct key tails."
+    ],
+    [
+      "Top key flops down without playing.",
+      "The keyboards have been transposed up, but this instrument has no action for the top note in the transposed position.",
+      "Normal operation."
+    ],
+    [
+      "Lower keyboard keyframe position indeterminate.",
+      "The instrument relies on keyboard holddown screws, and these have been removed.",
+      "Replace keyboard holddown screws."
+    ],
+    [
+      "Lower keyboard keyframe position indeterminate.",
+      "There is slop in the keyframe position because of climatic change.",
+      "Determine correct keyframe position and reduce lost motion."
+    ],
+    [
+      "Impossible to remove transposing block.",
+      "The block is screwed to the keyframe.",
+      "Remove action to access keyframe and remove transposing block screws."
+    ],
+    [
+      "Impossible to remove transposing block.",
+      "The space for the block has been squeezed because of climatic change.",
+      "Use an appropriate amount of force to dislodge block, and lubricate or adjust before returning."
+    ],
+    [
+      "Keyboard won’t slide sideways to transpose.",
+      "The instrument relies on keyboard holddown screws.",
+      "Find and remove keyboard holddown screws, replacing after transposition."
+    ]
+  ],
+  "preview_url": "https://iom-production.github.io/carey-beebe-responsive/"
+}
