@@ -112,7 +112,7 @@
       if (description) document.querySelector('meta[name="description"]').content = description.content;
       syncNavigation(replacement.dataset.document);
       if (options.push) history.pushState({ careySample: true, scrollY: 0 }, '', url.href);
-      status.textContent = replacement.querySelector('h1').textContent + ' loaded.';
+      status.textContent = replacement.querySelector('.chapter').textContent + ' loaded.';
       moveToContent(options.scrollY, url.hash);
     } catch (error) {
       if (error.name === 'AbortError') return;

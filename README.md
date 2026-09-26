@@ -1,25 +1,21 @@
-# Carey Beebe — responsive Technical Library sample
+# Carey Beebe responsive sample
 
-Two editable sample pages prepared by Jan Cubric / IOM for Carey Beebe.
+Revised 26 September 2026 by Jan Cubric / IOM.
 
-- [Online preview](https://iom-production.github.io/carey-beebe-responsive/)
-- [Dreamweaver ZIP](https://iom-production.github.io/carey-beebe-responsive/downloads/carey-beebe-dreamweaver-sample.zip)
-- [Getting started](DREAMWEAVER-TEST.txt)
+Extract the complete ZIP and select carey-beebe-responsive as a local site in
+Dreamweaver. Open index.html in a browser. Edit tech/kb/prob.html or
+tech/kb/trans.html. See DREAMWEAVER-TEST.txt for instructions.
 
-Extract the complete ZIP and define its `carey-beebe-responsive` folder as a local
-site in Dreamweaver. Open `tech/kb/prob.html` or `tech/kb/trans.html`.
+This revision simplifies the navigation, colours, typography and borders to
+follow Carey's existing website more closely. Technical content is unchanged.
+CSS and optional JavaScript are shared in assets/. Original JPEGs are included.
+No build tools or installation are required.
 
-All content is in standard HTML, with shared CSS and optional JavaScript.
-The photo and logo are the original JPEGs, with original credits retained.
-No build tools, dependencies or server installation are required for editing.
+Other library links open hpschd.nu. Dreamweaver 21.8 editing still needs
+Carey's own test. Content and photography copyright Carey Beebe.
 
-## Checks
+## Online preview
 
-- All 81 expanded table rows match the original observations, causes and actions.
-- Local links, image references, archive integrity and original image hashes checked.
-- Desktop and mobile layouts, content navigation and photograph dialog checked in Chromium.
-- Dreamweaver 21.8 editing and its built-in preview still require Carey's own test.
-
-Only two pages are adapted. Other links open the existing hpschd.nu site.
-The repeated navigation/footer and static banner are intentional limits of this pilot.
-Content and photography copyright Carey Beebe.
+- [Keyboard problems](https://iom-production.github.io/carey-beebe-responsive/tech/kb/prob.html)
+- [Transposing keyboards](https://iom-production.github.io/carey-beebe-responsive/tech/kb/trans.html)
+- [Download and instructions](https://iom-production.github.io/carey-beebe-responsive/download.html)

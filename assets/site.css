@@ -175,3 +175,105 @@ h1 { font-size: clamp(2rem, 3.25vw, 3rem); font-weight: normal; letter-spacing: 
   .problems-table td, .problems-table tbody th { background: #fff; padding: 5pt; }
   .enlarge-mark { display: none !important; }
 }
+
+/* Carey review, 26 September 2026: quiet presentation close to the original. */
+:root {
+  --rail: var(--paper); --ink: #000; --muted: #000; --link: #003366;
+  --rule: #cbd5d6; --light-rule: transparent;
+  --table: transparent; --table-alt: transparent;
+  --rail-width: 150px; --header-height: 80px;
+  font-family: 'Palatino Linotype', Palatino, 'Times New Roman', serif;
+}
+body { font-size: 14px; line-height: 1.4; }
+.site-header { padding: 12px 24px; border: 0; box-shadow: none; }
+.header-name { margin-left: auto; text-align: right; }
+.header-name a { font-size: 24px; font-style: italic; }
+.header-name a > span { font-size: 1em; margin-left: .15em; }
+.header-name p { font: 10px/1.4 'Palatino Linotype', Palatino, serif; letter-spacing: .13em; margin-top: 2px; }
+.site-rail { padding: 14px 13px 24px; border: 0; box-shadow: none; }
+.brand-mark { display: block; min-height: 0; padding: 0; margin-bottom: 10px; }
+.brand-mark img { width: 124px; height: 54px; object-fit: contain; mix-blend-mode: normal; }
+.nav-group summary { padding: 10px 4px 9px 0; text-align: right; font-size: 12px; letter-spacing: 0; }
+.nav-group summary::after { content: none; }
+.nav-group[open] summary { padding-bottom: 4px; }
+.nav-group ul { margin-bottom: 11px; }
+.nav-group a { padding: 2px 0; text-align: right; font: 12px/1.3 'Palatino Linotype', Palatino, 'Times New Roman', serif; }
+.nav-group a:hover { background: none; color: var(--link); text-decoration: underline; }
+.nav-group a[aria-current] { background: none; border: 0; color: var(--ink); font-weight: bold; }
+.nav-group .keyboard-links { padding: 0; margin: 5px 0 8px; border: 0; }
+.keyboard-links a span { display: none; }
+.subsection-label { padding: 4px 0; text-align: right; font-size: 12px; }
+.rail-footer { padding: 12px 0 0; align-items: center; text-align: center; font: 11px/1.4 'Palatino Linotype', Palatino, serif; }
+.rail-footer a { font-size: 11px; }
+main { max-width: 90rem; padding: 0 24px 28px; }
+.article-heading { border-block: 1px solid var(--rule); box-shadow: none; padding: 16px 0; margin-bottom: 16px; }
+h1 { font-size: 28px; font-weight: bold; letter-spacing: 0; margin: 0 0 9px; line-height: 1.2; }
+.chapter { margin: 0 0 12px; font: bold 14px/1.4 'Palatino Linotype', Palatino, serif; letter-spacing: 0; text-transform: none; }
+.copyright { font: 14px/1.4 'Palatino Linotype', Palatino, serif; }
+.table-scroll { border: 0; }
+.problems-table { min-width: 650px; font-size: 14px; line-height: 1.35; }
+.observation-column { width: 30%; }
+.action-column { width: 35%; }
+.problems-table thead th { background: none; color: var(--ink); padding: 6px 8px; font: bold 12px/1.35 'Palatino Linotype', Palatino, serif; letter-spacing: 0; border: 1px solid #74898c; }
+.problems-table td, .problems-table tbody th { padding: 7px 8px; border: 1px solid #74898c; background: none; }
+.problems-table tbody th { font-weight: normal; vertical-align: middle; }
+.problems-table tbody + tbody { border-top: 1px solid #74898c; }
+.problems-table tr:hover td { background: none; }
+.keyboard-article { font-size: 14px; line-height: 1.4; }
+.keyboard-article h2 { font-size: 16px; margin-bottom: 14px; }
+.keyboard-article p { margin-bottom: 15px; }
+.instrument-photo { width: min(35%, 317px); margin: 0 24px 20px 0; }
+.instrument-photo > a { border: 0; }
+.js .enlarge-mark { display: none; }
+.photo-credit { font: 10px/1.4 'Palatino Linotype', Palatino, serif; letter-spacing: 0; padding-top: 3px; }
+.photo-title { font-size: 12px; padding-top: 4px; }
+.technical-note { padding: 0; margin-bottom: 15px; background: none; border: 0; font: bold 12px/1.4 'Palatino Linotype', Palatino, serif; text-transform: uppercase; }
+.note-mark { border: 0; font-size: 18px; }
+.keyboard-index { margin-top: 24px; padding: 12px 0; border-block: 1px solid var(--rule); font-size: 13px; }
+.keyboard-index p { margin: 0 0 6px; }
+.keyboard-index ul { display: flex; flex-wrap: wrap; gap: 6px 14px; list-style: none; margin: 0; padding: 0; }
+.keyboard-index a[aria-current] { color: var(--ink); font-weight: bold; text-decoration: none; }
+.site-footer { display: block; border: 0; background: none; padding: 0 24px 24px; text-align: center; font: 12px/1.45 'Palatino Linotype', Palatino, serif; }
+.site-footer > div { margin-bottom: 12px; }
+.site-footer strong { font-size: 14px; }
+.site-footer p { margin-bottom: 6px; }
+.site-footer a { display: inline-block; margin-inline: 5px; }
+.site-footer .back-top { display: block; width: auto; margin-top: 12px; }
+.photo-dialog { background: var(--paper); box-shadow: none; }
+.photo-dialog img { border: 0; }
+.photo-dialog::backdrop { background: #0009; backdrop-filter: none; }
+@media (max-width: 850px) {
+  :root { --header-height: 80px; }
+  body { font-size: 16px; }
+  .site-header { min-height: 80px; padding: 12px 16px; }
+  .header-name { margin: 0; text-align: left; }
+  .header-name a { font-size: 20px; }
+  .header-name a > span { font-size: 15px; margin: 0; }
+  .js .menu-toggle { border: 0; padding: 6px; min-width: 48px; text-decoration: underline; font: 15px/1.4 'Palatino Linotype', Palatino, serif; }
+  .menu-icon { display: none; }
+  .js .site-rail { width: min(290px, 85vw); border: 0; padding: 0 20px 24px; }
+  .nav-group summary { text-align: left; font-size: 14px; padding: 14px 0; }
+  .nav-group a, .nav-group .keyboard-links a { text-align: left; font-size: 14px; padding: 10px 0; }
+  .subsection-label { text-align: left; }
+  main { padding: 0 16px 24px; }
+  h1 { font-size: 26px; }
+  .chapter { font-size: 16px; }
+  .copyright { font-size: 13px; }
+  .keyboard-article { font-size: 16px; line-height: 1.5; }
+  .keyboard-article h2 { font-size: 17px; }
+  .instrument-photo { width: min(40%, 317px); margin-right: 20px; }
+  .technical-note { font-size: 13px; }
+  .keyboard-index { font-size: 14px; }
+  .keyboard-index a { display: inline-block; padding-block: 6px; }
+}
+@media (max-width: 520px) {
+  .instrument-photo { float: none; width: min(100%, 317px); margin: 0 auto 22px; }
+  .photo-title { font-size: 14px; }
+  .photo-credit { font-size: 11px; }
+}
+@media print {
+  .keyboard-index { display: none; }
+  .site-header { min-height: 0; padding: 0 0 12px; }
+  main { padding: 0; }
+  .problems-table { min-width: 0; font-size: 9pt; }
+}

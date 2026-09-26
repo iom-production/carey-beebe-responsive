@@ -1,5 +1,5 @@
 CAREY BEEBE — DREAMWEAVER TEST SAMPLE
-Prepared by Jan Cubric / IOM — 13 September 2026
+Prepared by Jan Cubric / IOM — 26 September 2026
 
 GETTING STARTED
 1. Extract the entire ZIP before opening any files.
@@ -44,3 +44,8 @@ The common navigation and footer are repeated in the two HTML files for this
 pilot. A shared editing method can be agreed before converting the wider site.
 
 Content and photography copyright Carey Beebe. This is a review sample.
+
+REVISION 26 SEPTEMBER 2026
+Plain navigation, compact Palatino typography and fewer decorative colours
+and borders, following the original website more closely. Technical content
+and original photographs are unchanged.
